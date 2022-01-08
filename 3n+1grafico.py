@@ -4,7 +4,7 @@ print("ingrese un valor")
 n = int(input())
 lista = list()
 print("ingrese un valor p")
-x = [1, 2, 3, 4, 5, 6, 7]
+x = []
 y = list()
 
 while n > 1:
